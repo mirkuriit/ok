@@ -1,4 +1,4 @@
-package com.company.homework1;
+package com.company;
  
 public class Dots {
     private double x, y;
